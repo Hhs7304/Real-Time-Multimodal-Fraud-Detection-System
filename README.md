@@ -320,8 +320,3 @@ Fraud Classification
 
 ---
 
-# Author
-
-Hariharasudhan G A
-
-B.Tech Artificial Intelligence and Data Science
